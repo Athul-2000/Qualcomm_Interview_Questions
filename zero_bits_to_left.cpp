@@ -24,7 +24,7 @@ int main(){
 		}
 			
 	}
-	for (int j = 0; j < temp_last_index; j++){
+	for (int j = 0; j <= temp_last_index; j++){
 		temp_arr[j] = 0;
 	}
 	
